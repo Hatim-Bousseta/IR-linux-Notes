@@ -66,3 +66,7 @@ Delete attacker-added cron jobs and revert any changes to existing jobs.
 | **Edit Another User's Crontab** | `crontab -u USERNAME -e` |
 
 
+
+
+
+ Action: First, identify services open to the internet (netstat). Second, examine the associated application directories.
